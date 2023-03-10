@@ -165,7 +165,7 @@
     (property "ki_keywords" "R res resistor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "100mW Thick Film Resistors 75V ±1% -55℃~+155℃ 0Ω 0603 Chip Resistor - Surface Mount ROHS" (at 0 0 0)
+    (property "ki_description" "1W Thick Film Resistors 200V ±1% ±200ppm/℃ -55℃~+155℃ 62Ω 2512 Chip Resistor - Surface Mount ROHS" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "R_*" (at 0 0 0)
