@@ -6,7 +6,7 @@
     (property "Value" "IPS-ST7735-0.96INCH-13PIN-SOLDER" (at 0 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Display:OLED-128O064D" (at 0 27.94 0)
+    (property "Footprint" "Display:IPS-ST7735-0.96INCH-13PIN-SOLDER" (at 0 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf" (at 0 25.4 0)
