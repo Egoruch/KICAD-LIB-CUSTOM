@@ -43,7 +43,7 @@
       )
     )
     (symbol "IPS-ST7735-0.96INCH-13PIN-SOLDER_1_1"
-      (pin passive line (at -7.62 15.24 0) (length 2.54)
+      (pin output line (at -7.62 15.24 0) (length 2.54)
         (name "TP0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
@@ -63,7 +63,7 @@
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "13" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -7.62 12.7 0) (length 2.54)
+      (pin output line (at -7.62 12.7 0) (length 2.54)
         (name "TP1" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
